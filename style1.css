@@ -1,0 +1,140 @@
+﻿body{
+background-color: snow;
+}
+
+.shapka{
+padding: 10px 0 10px 10px;
+color: gray;
+}
+
+.near{
+display: inline-block;
+}
+
+.logo_img{
+float: left;
+width: 90px;
+height: 90px;
+}
+
+.call{
+margin: 0 0 0 100px;
+color: black;
+}
+
+.brownback{
+background-color: orange;
+font-size: 45px;
+padding: 10px;
+}
+
+.fon_img1{
+position: absolute;
+z-index: -1;
+width: 1247px;
+height: 600px;
+margin-top: 20px;
+}
+
+.text2{
+margin-left: 12px;
+}
+
+.squared{
+position: relative;
+bottom: 14px;
+font-size: 25px;
+}
+
+.images{
+}
+
+.imgdiv1{
+text-align: center;
+vertical-align: top;
+width: 306.3px;
+display: inline-block;
+}
+
+.imgdiv2{
+vertical-align: top;
+width: 385px;
+display: inline-block;
+margin-right: 20px;
+}
+
+.titimgdiv{
+text-align: left;
+font-size: 20px;
+}
+
+.subimgdiv{
+text-align: left;
+position: relative;
+bottom: 8px;
+font-size: 15px;
+}
+
+.imgdivlast1{
+vertical-align: top;
+width: 300px;
+display: inline-block;
+}
+
+.imgdivlast2{
+vertical-align: top;
+width: 385px;
+display: inline-block;
+margin-right: 15px;
+}
+
+.container{
+display: flex;
+background-color: lavender;
+margin-top: 60px;
+}
+
+.item{
+margin: 25px 40px 0 23px;
+}
+
+.bottomm{
+display: flex;
+flex-direction: row;
+margin-top: 80px;
+}
+
+.rekv{
+display: flex;
+flex-direction: column;
+width: 400px;
+margin: 0 200px 0 10px;
+}
+
+.titbottom{
+font-weight: bold;
+font-size: 24px;
+border-bottom: 4px solid orange;
+color: black;
+margin: 0 0 15px 0;
+}
+
+.gray{
+color: gray;
+font-size: 18px;
+}
+
+.bottomtext{
+margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
